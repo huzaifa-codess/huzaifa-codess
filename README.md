@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/5--7_Apps-Published_on_Play_Store-E11D48?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store Apps" />
   <img src="https://img.shields.io/badge/Experience-2+_Years_Mobile_Dev-0284C7?style=for-the-badge&logo=react&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/Greco--Roman_Wrestling-State_Bronze_Medalist_🤼-D97706?style=for-the-badge" alt="Wrestling" />
+  <!-- <img src="https://img.shields.io/badge/Greco--Roman_Wrestling-State_Bronze_Medalist_🤼-D97706?style=for-the-badge" alt="Wrestling" /> -->
 </p>
 
 ---
